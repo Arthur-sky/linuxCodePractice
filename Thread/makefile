@@ -1,2 +1,2 @@
 forkbegin: forkbegin.o
-	gcc forkbegin.c -o forkbegin
+	gcc forkbegin.c -o forkbegin.exe
